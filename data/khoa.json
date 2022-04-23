@@ -1,0 +1,74 @@
+{
+    "Khoa Sư Phạm Khoa Học Tự nhiên": {
+        "website": "https://spkhtn.sgu.edu.vn/",
+        "vpk": "Phòng HB.203, 273 An Dương Vương, Phường 3, Quận 5, TP. Hồ Chí Minh."
+    },
+    "Khoa Toán Ứng Dụng": {
+        "website": "http://fma.sgu.edu.vn/",
+        "vpk": "Phòng  HB404 - HB405, 273 An Dương Vương, P.3,Q.5, TP.HCM"
+    },
+    "Khoa Sư Phạm Khoa Học Xã hội": {
+        "website": "http://spxh.sgu.edu.vn/vn/",
+        "vpk": "Phòng HB 306, HB307 273 An Dương Vương, P.3, Q.5, TP.HCM"
+    },
+    "Khoa Giáo Dục Tiểu Học": {
+        "website": "http://giaoductieuhoc.sgu.edu.vn/vn/",
+        "vpk": "Phòng D101, Dãy nhà D, 273 An Dương Vương, Phường 3, Quận 5, Tp. Hồ Chí Minh"
+    },
+    "Khoa giáo dục mầm non": {
+        "website": "http://giaoducmamnon.sgu.edu.vn/",
+        "vpk": "4 Tôn Đức Thắng, P. Bến Nghé, Q.1"
+    },
+    "Khoa Sư Phạm Kỹ Thuật": {
+        "website": "https://sgu.edu.vn/khoa-su-pham-ky-thuat/",
+        "vpk": "P.1A004, 1A005 Cơ sở 1, số 105 đường Bà Huyện Thanh Quan, phường 7, quận 3, TP Hồ Chí Minh"
+    },
+    "Khoa Ngoại Ngữ": {
+        "website": "http://dfl.sgu.edu.vn/",
+        "vpk": "273 An Dương Vương, Phường 3, Quận 5, Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh."
+    },
+    "Khoa Mỹ Thuật": {
+        "website": "http://mythuat.sgu.edu.vn/",
+        "vpk": "273 An Dương Vương, Phường 3, Quận 5, Hồ Chí Minh, Vietnam, Thành phố Hồ Chí Minh."
+    },
+    "Khoa Nghệ Thuật": {
+        "website": "http://nghethuat.sgu.edu.vn/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Công Nghệ Thông Tin": {
+        "website": "https://fit.sgu.edu.vn/site/",
+        "vpk": " 273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Min"
+    },
+    "Khoa Quản Trị Kinh Doanh": {
+        "website": "http://quantrikinhdoanh.sgu.edu.vn/",
+        "vpk": "105 Bà Huyện Thanh Quan, Phường 7, Quận 3, Tp. Hồ Chí Minh."
+    },
+    "Khoa Thư Viện Văn Phòng": {
+        "website": "http://tvvp.sgu.edu.vn/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Tài Chính Kế Toán": {
+        "website": "http://taichinhketoan.sgu.edu.vn/web/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Khoa Học Môi Trường": {
+        "website": "https://sgu.edu.vn/trang-dang-xay-dung/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Giáo Dục ": {
+        "website": "http://qlgd.sgu.edu.vn/",
+        "vpk": "20 Ngô Thời Nhiệm, Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Điện Tử Viễn Thông": {
+        "website": "http://fet.sgu.edu.vn/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Giáo Dục Chính Trị": {
+        "website": "http://gdct.sgu.edu.vn/",
+        "vpk": "273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    },
+    "Khoa Luật": {
+        "website": "http://khoaluat.sgu.edu.vn/",
+        "vpk": " 273 An D. Vương, Phường 3, Quận 5, Thành phố Hồ Chí Minh"
+    }
+}
