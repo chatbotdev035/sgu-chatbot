@@ -1,4 +1,4 @@
-import diachicoso_data from '../data/diachicoso.json'
+import diachicoso_data from '../data/diachicoso.json' assert {type: "json"}
 import diff from 'dialogflow-fulfillment'
 
 const i_bandocoso = (agent) => {

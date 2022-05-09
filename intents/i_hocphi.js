@@ -1,7 +1,7 @@
 const GR1 = ["DKE", "DQK", "DKQ", "DTN", "DTL", "DQG", "DKV(DTT)", "DQV", "DLU"]
 const GR2 = ["DKP", "DNA", "DDV", "DDT", "DCV", "DDD", "DDE", "DCT", "DCM", "DKM", "DTU", "DAN", "DQT", "DVI"]
 
-import review_data from '../data/review.json'
+import review_data from '../data/review.json' assert {type: "json"}
 
 const i_hocphi = (agent) => {
 

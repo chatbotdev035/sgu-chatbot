@@ -1,4 +1,4 @@
-import review_data from '../data/review.json'
+import review_data from '../data/review.json' assert {type: "json"}
 
 const i_reviewnganh = (agent) => {
 

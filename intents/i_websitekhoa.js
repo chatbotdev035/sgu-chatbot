@@ -1,4 +1,4 @@
-import khoa_data from '../data/khoa.json'
+import khoa_data from '../data/khoa.json' assert {type: "json"}
 
 const i_websitekhoa = (agent) => {
 
